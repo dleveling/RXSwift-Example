@@ -1,13 +1,12 @@
 # RXSwift-Example
-RXSwift Example
 
-RxSwift - Subject
+# RxSwift - Subject
 - BehaviorSubject
 - Variable
 - PublishSubject
 - ReplaySubject
 
-RxSwift - Operator
+# RxSwift - Operator
 - Map
 - Filter
 - Merge
