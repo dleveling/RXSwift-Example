@@ -1,5 +1,3 @@
-# RXSwift-Example
-
 # RxSwift - Subject
 - BehaviorSubject
 - Variable
